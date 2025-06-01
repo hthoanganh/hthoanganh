@@ -1,4 +1,7 @@
 ## Hi, Mình là Hoàng Anh 👋
+## Mình đang là một sinh viên IT
+## Liên hệ:
+- htha4067@gmail.com
 
 <!--
 **hthoanganh/hthoanganh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
