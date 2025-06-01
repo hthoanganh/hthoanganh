@@ -2,6 +2,7 @@
 ## Mình đang là một sinh viên IT, đang trên con đường học hỏi để phát triển bản thân
 ## Liên hệ:
 - htha4067@gmail.com
+- Facebook: https://www.facebook.com/profile.php?id=100042035465635
 
 <!--
 **hthoanganh/hthoanganh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
