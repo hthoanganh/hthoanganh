@@ -1,7 +1,7 @@
 ## Hi, Mình là Hoàng Anh 👋
 ## Mình đang là một sinh viên IT, đang trên con đường học hỏi để phát triển bản thân
 ## Liên hệ:
-- htha4067@gmail.com
+- Email: htha4067@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=100042035465635
 
 <!--
