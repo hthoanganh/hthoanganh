@@ -1,5 +1,6 @@
 ## Hi, Mình là Hoàng Anh 👋
 ## Mình đang là một sinh viên IT, đang trên con đường học hỏi để phát triển bản thân
+## Tôi đã được học qua các ngôn ngữ lập trình như: C, C++, Java, Python, C#
 ## Liên hệ:
 - Email: htha4067@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=100042035465635
