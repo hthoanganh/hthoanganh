@@ -5,8 +5,7 @@
 ## Liên hệ:
 - Email: htha4067@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=100042035465635
-- Sđt: 0788968277
-- Zalo: 0788968277
+- Sđt: 0788968277 (Zalo)
 <!--
 **hthoanganh/hthoanganh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
